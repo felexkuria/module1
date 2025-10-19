@@ -5,8 +5,9 @@
 int main()
 {
   int age=31;
+  age++;
 
-  printf(" Hello, World! %d \n",age);
+  printf(" Hello, World! %i \n",age);
   // /n is used to print the new line
   // /r is used to return the cursor to the beginning of the line
   // /` is used to print the backslash
