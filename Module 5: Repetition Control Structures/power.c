@@ -18,6 +18,6 @@ void triangle(int number)
 }
 int main()
 {
-    triangle(8);
+    triangle(5);
 }
 
