@@ -1,0 +1,146 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//Gemini//R-Programming-Dynamic-Schedule//EN
+CALSCALE:GREGORIAN
+BEGIN:VTIMEZONE
+TZID:Africa/Nairobi
+BEGIN:STANDARD
+TZOFFSETFROM:+0300
+TZOFFSETTO:+0300
+TZNAME:EAT
+DTSTART:19700101T000000
+END:STANDARD
+END:VTIMEZONE
+BEGIN:VEVENT
+DTSTART;TZID=Africa/Nairobi:20251030T070000
+DTEND;TZID=Africa/Nairobi:20251030T080000
+SUMMARY:R: Intro, Variables, and Data Types (0h - 1h)
+DESCRIPTION:Daily 1-hour session for R Programming Full Course.\n\nVideo Source: https://www.youtube.com/live/Q5g6lYUn6Q4?si=MzIImkFVU-xpbaon
+LOCATION:cs50.dev env
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Reminder: R programming starts in 10 minutes!
+TRIGGER:-PT10M
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;TZID=Africa/Nairobi:20251031T070000
+DTEND;TZID=Africa/Nairobi:20251031T080000
+SUMMARY:R: Logical Operators & Vectors (1h - 2h)
+DESCRIPTION:Daily 1-hour session for R Programming Full Course.\n\nVideo Source: https://www.youtube.com/live/Q5g6lYUn6Q4?si=MzIImkFVU-xpbaon
+LOCATION:cs50.dev env
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Reminder: R programming starts in 10 minutes!
+TRIGGER:-PT10M
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;TZID=Africa/Nairobi:20251101T070000
+DTEND;TZID=Africa/Nairobi:20251101T080000
+SUMMARY:R: Lists and Matrices (2h - 3h)
+DESCRIPTION:Daily 1-hour session for R Programming Full Course.\n\nVideo Source: https://www.youtube.com/live/Q5g6lYUn6Q4?si=MzIImkFVU-xpbaon
+LOCATION:cs50.dev env
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Reminder: R programming starts in 10 minutes!
+TRIGGER:-PT10M
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;TZID=Africa/Nairobi:20251102T070000
+DTEND;TZID=Africa/Nairobi:20251102T080000
+SUMMARY:R: Data Frames and Flow Control (3h - 4h)
+DESCRIPTION:Daily 1-hour session for R Programming Full Course.\n\nVideo Source: https://www.youtube.com/live/Q5g6lYUn6Q4?si=MzIImkFVU-xpbaon
+LOCATION:cs50.dev env
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Reminder: R programming starts in 10 minutes!
+TRIGGER:-PT10M
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;TZID=Africa/Nairobi:20251103T070000
+DTEND;TZID=Africa/Nairobi:20251103T080000
+SUMMARY:R: Functions (User-defined & Built-in) (4h - 5h)
+DESCRIPTION:Daily 1-hour session for R Programming Full Course.\n\nVideo Source: https://www.youtube.com/live/Q5g6lYUn6Q4?si=MzIImkFVU-xpbaon
+LOCATION:cs50.dev env
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Reminder: R programming starts in 10 minutes!
+TRIGGER:-PT10M
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;TZID=Africa/Nairobi:20251104T070000
+DTEND;TZID=Africa/Nairobi:20251104T080000
+SUMMARY:R: Regular Expressions & Data Manipulation (dplyr) (5h - 6h)
+DESCRIPTION:Daily 1-hour session for R Programming Full Course.\n\nVideo Source: https://www.youtube.com/live/Q5g6lYUn6Q4?si=MzIImkFVU-xpbaon
+LOCATION:cs50.dev env
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Reminder: R programming starts in 10 minutes!
+TRIGGER:-PT10M
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;TZID=Africa/Nairobi:20251105T070000
+DTEND;TZID=Africa/Nairobi:20251105T080000
+SUMMARY:R: Data Manipulation (tidyr) & Visualization (Part 1) (6h - 7h)
+DESCRIPTION:Daily 1-hour session for R Programming Full Course.\n\nVideo Source: https://www.youtube.com/live/Q5g6lYUn6Q4?si=MzIImkFVU-xpbaon
+LOCATION:cs50.dev env
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Reminder: R programming starts in 10 minutes!
+TRIGGER:-PT10M
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;TZID=Africa/Nairobi:20251106T070000
+DTEND;TZID=Africa/Nairobi:20251106T080000
+SUMMARY:R: Data Visualization (Part 2) (7h - 8h)
+DESCRIPTION:Daily 1-hour session for R Programming Full Course.\n\nVideo Source: https://www.youtube.com/live/Q5g6lYUn6Q4?si=MzIImkFVU-xpbaon
+LOCATION:cs50.dev env
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Reminder: R programming starts in 10 minutes!
+TRIGGER:-PT10M
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;TZID=Africa/Nairobi:20251107T070000
+DTEND;TZID=Africa/Nairobi:20251107T080000
+SUMMARY:R: Time Series Analysis (Part 1) (8h - 9h)
+DESCRIPTION:Daily 1-hour session for R Programming Full Course.\n\nVideo Source: https://www.youtube.com/live/Q5g6lYUn6Q4?si=MzIImkFVU-xpbaon
+LOCATION:cs50.dev env
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Reminder: R programming starts in 10 minutes!
+TRIGGER:-PT10M
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;TZID=Africa/Nairobi:20251108T070000
+DTEND;TZID=Africa/Nairobi:20251108T080000
+SUMMARY:R: Time Series Analysis (Part 2) & Final Concepts (9h - 10h)
+DESCRIPTION:Daily 1-hour session for R Programming Full Course.\n\nVideo Source: https://www.youtube.com/live/Q5g6lYUn6Q4?si=MzIImkFVU-xpbaon
+LOCATION:cs50.dev env
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Reminder: R programming starts in 10 minutes!
+TRIGGER:-PT10M
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;TZID=Africa/Nairobi:20251109T070000
+DTEND;TZID=Africa/Nairobi:20251109T071000
+SUMMARY:R: Course Conclusion & Review (10h - 10h 10m)
+DESCRIPTION:Final 10-minute session for R Programming Full Course.\n\nVideo Source: https://www.youtube.com/live/Q5g6lYUn6Q4?si=MzIImkFVU-xpbaon
+LOCATION:cs50.dev env
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Reminder: R programming starts in 10 minutes!
+TRIGGER:-PT10M
+END:VALARM
+END:VEVENT
+END:VCALENDAR
